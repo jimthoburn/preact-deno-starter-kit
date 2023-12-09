@@ -6,7 +6,7 @@
 
 2. Install Deno: https://deno.com
 
-3. From the root of your project, start a server for development...
+3. From the root folder of your cloned/downloaded copy, start a server for development...
 
 ```shell
 deno task serve
